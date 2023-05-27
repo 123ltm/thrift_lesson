@@ -7,7 +7,7 @@
 #include "match_types.h"
 
 #include <algorithm>
-#include <ostream>
+#include <iostream>
 
 #include <thrift/TToString.h>
 
